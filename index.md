@@ -4,24 +4,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Changes made for header markdown course
+...
+$ git init
+Initialized empty directory in /Users/skills/Projects/recipe-repository/.git/
+...
  
